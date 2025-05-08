@@ -16,3 +16,37 @@ h1 {
   padding-top: 20px;
   padding-bottom: 20px;
 }
+
+/* main */
+
+.d-flex {
+  display: flex;
+}
+
+.justify-content-center {
+  justify-content: center;
+}
+
+.container-main {
+  width: 40%;
+}
+
+/* bottoni */
+
+.container-buttons {
+  margin-top: 60px;
+}
+
+button {
+  background-color: #0D6EFD;
+  color: white;
+  border-radius: 5px;
+  border: none;
+}
+
+h2 {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
