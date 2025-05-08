@@ -15,3 +15,5 @@ Dare un colore diverso al bottone per cui il linguaggio è attualmente seleziona
 Scomporre la card dei dettagli in un componente a parte che mantenga le sue funzionalità
 Scomporre i buttons in componenti a parte che mantengono tutte le funzionaliltà
 Buon Lavoro (modificato) 
+
+esercizio terminato
