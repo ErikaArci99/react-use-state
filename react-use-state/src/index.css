@@ -3,3 +3,16 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+/* header */
+
+.container-header {
+  width: 100%;
+  background-color: #F8F9FA;
+  text-align: center;
+}
+
+h1 {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
